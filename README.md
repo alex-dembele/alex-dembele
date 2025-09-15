@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexandre Dembele  
+# 👋 Hi, I'm Alex DEMBELE  
 
 🚀 **Systems & Network Engineer | Cloud & DevOps | Cybersecurity**  
 🌍 Based in Cameroon   
