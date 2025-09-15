@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me  
 
-I’m a **System & Network Administrator** with **4+ years of experience** in optimizing, securing and automating infrastructures.  
+I’m a **System & Network Administrator** with **years of experience** in optimizing, securing and automating infrastructures.  
 💡 I specialize in **Cloud (AWS, Kubernetes, Docker)**, **DevOps (Terraform, CI/CD, GitHub Actions)** and **Cybersecurity**.  
 🔥 My focus: **resilient, scalable and cost-efficient infrastructures** with top-notch **security**.  
 
