@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alexandre Dembele  
 
 🚀 **Systems & Network Engineer | Cloud & DevOps | Cybersecurity**  
-🌍 Based in Cameroon | Open to international opportunities (Canada & beyond)  
+🌍 Based in Cameroon   
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-dembele)
 [![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexNXH)
