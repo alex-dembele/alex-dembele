@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional;4%2B+Years+Experience" alt="Typing SVG" />
 
 **🌍 Based in Douala, Cameroon | 🎯 Open to International Opportunities**
 
