@@ -26,7 +26,7 @@ experience: 4+ years
 specialization: [Cloud Architecture, DevOps, Cybersecurity]
 current_position: System Administrator @ NEXAH SARL
 location: Douala, Cameroon
-seeking: International opportunities in Canada
+seeking: International opportunities
 ```
 
 **Passionate Systems & Network Administrator** with **4+ years of hands-on experience** in designing, optimizing, and securing cloud infrastructures. I thrive on transforming complex technical challenges into elegant, scalable solutions.
