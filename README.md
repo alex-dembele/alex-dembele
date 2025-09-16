@@ -198,7 +198,7 @@ seeking: International opportunities in Canada
 <div align="center">
 
 **🗣️ Languages:**  
-🇫🇷 **French** (Native) | 🇬🇧 **English** (Intermediate)
+🇫🇷 **French** | 🇬🇧 **English**
 
 **🎯 Interests:**  
 💻 Emerging Technologies | 🎮 Gaming | 🎬 Cinema | 🌐 Cloud Trends | 🔐 Cybersecurity Research
