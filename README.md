@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Alexandre DEMBÉLÉ
+# 👋 Hello World, I'm Alex DEMBELE
 
 <div align="center">
 
