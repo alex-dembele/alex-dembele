@@ -105,17 +105,7 @@ seeking: International opportunities
 
 ---
 
-## 🎓 Education & Certifications
-
-<div align="center">
-
-### 🎓 Education
-**Bachelor's in Networks & Telecommunications** | *Institut Universitaire de la Côte (IUC)* | 2021-2022  
-**BTS in Network & Security** | *ISTAMA* | 2019-2021
-
-</div>
-
-### 🏆 Professional Certifications
+### 🏆 Professional Certifications and Badges
 
 <table>
 <tr>
