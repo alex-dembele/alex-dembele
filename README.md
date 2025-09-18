@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 ```yaml
-name: Alexandre DEMBÉLÉ
+name: Alexandre DEMBELE
 role: Systems & Network Engineer
 experience: 4+ years
 specialization: [Cloud Architecture, DevOps, Cybersecurity]
