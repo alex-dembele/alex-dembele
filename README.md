@@ -185,7 +185,7 @@ seeking: International opportunities
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alex-dembele&theme=tokyonight&no-frame… alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alex-dembele&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -206,7 +206,7 @@ seeking: International opportunities
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-dembele&theme=tokyo-night… alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-dembele&theme=tokyo-night" alt="Contribution Graph"/>
 </div>
 
 ---
