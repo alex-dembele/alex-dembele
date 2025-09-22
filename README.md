@@ -183,6 +183,13 @@ seeking: International opportunities
 
 ---
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=duclairdeugoue&theme=tokyonight&no-frame… alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 🌍 Languages & Interests
 
 <div align="center">
@@ -193,6 +200,13 @@ seeking: International opportunities
 **🎯 Interests:**  
 💻 Emerging Technologies | 🎮 Gaming | 🎬 Cinema | 🌐 Cloud Trends | 🔐 Cybersecurity Research
 
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-dembele&theme=tokyo-night… alt="Contribution Graph"/>
 </div>
 
 ---
