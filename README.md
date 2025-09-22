@@ -185,7 +185,7 @@ seeking: International opportunities
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alex-dembele&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alex-dembele&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
