@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Alex DEMBELE
+# 👋 Hello, I'm Alex DEMBELE.
 
 <div align="center">
 
