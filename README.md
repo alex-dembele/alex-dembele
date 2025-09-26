@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional;4%2B+Years+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional" alt="Typing SVG" />
 
 **🌍 Based in Douala, Cameroon | 🎯 Open to International Opportunities**
 
@@ -29,7 +29,7 @@ location: Douala, Cameroon
 seeking: International opportunities
 ```
 
-**Passionate Systems & Network Administrator** with **4+ years of hands-on experience** in designing, optimizing, and securing cloud infrastructures. I thrive on transforming complex technical challenges into elegant, scalable solutions.
+**Passionate Systems & Network Administrator** with **hands-on experience** in designing, optimizing, and securing cloud infrastructures. I thrive on transforming complex technical challenges into elegant, scalable solutions.
 
 🎯 **What I do:**
 - Architect and migrate cloud infrastructures (AWS → Kubernetes)
