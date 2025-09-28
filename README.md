@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Alex DEMBELE
+# 👋 Hello, I'm Alex DEMBELE.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional" alt="Typing SVG" />
 
-🌍 **Based in Douala, Cameroon** | 🎯 **Open to International Opportunities**
+**🌍 Based in Douala, Cameroon | 🎯 Open to International Opportunities**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-dembele)
@@ -27,186 +27,204 @@ specialization: [Cloud Architecture, DevOps, Cybersecurity]
 current_position: System Administrator @ NEXAH SARL
 location: Douala, Cameroon
 seeking: International opportunities
+```
 
-Passionate Systems & Network Administrator with expertise in cloud infrastructures, DevOps, and cybersecurity.
-I turn complex technical challenges into scalable, automated, and secure solutions.
+**Passionate Systems & Network Administrator** with **hands-on experience** in designing, optimizing, and securing cloud infrastructures. I thrive on transforming complex technical challenges into elegant, scalable solutions.
 
-🎯 What I do:
-	•	Architect & migrate infrastructures (AWS → Kubernetes)
-	•	Build CI/CD pipelines (reduced deploy time -40%)
-	•	Optimize cloud costs (-15% with containers)
-	•	Implement security frameworks & observability
-	•	Deliver resilient, high-availability systems
+🎯 **What I do:**
+- Architect and migrate cloud infrastructures (AWS → Kubernetes)
+- Design automated CI/CD pipelines that reduce deployment time by **40%**
+- Optimize cloud costs through containerization (**-15% cost reduction**)
+- Implement robust security frameworks and monitoring solutions
+- Build resilient, high-availability systems
 
-⸻
+---
 
-💼 Professional Experience
+## 💼 Professional Experience
 
 <details>
-<summary><strong>🏢 System Administrator @ NEXAH SARL</strong> <em>(Apr 2023 - Present)</em></summary>
+<summary><strong>🏢 System Administrator @ NEXAH SARL</strong> <em>(April 2023 - Present)</em></summary>
 
+**Key Achievements:**
+- 🔄 **Successfully migrated** AWS architecture to Kubernetes using EKS, Terraform, Helm, and ArgoCD
+- ⚡ **Reduced deployment times by 40%** through GitHub Actions CI/CD automation
+- 💰 **Cut cloud costs by 15%** via Docker & Kubernetes containerization
+- 🛡️ **Enhanced security posture** with IAM policies, IPSec VPN, and comprehensive monitoring
+- 📊 **Implemented observability** with Prometheus monitoring stack. 
 
-Key Achievements:
-	•	🔄 Migrated AWS to Kubernetes (EKS + Terraform + Helm + ArgoCD)
-	•	⚡ Reduced deployment time by 40% with GitHub Actions CI/CD
-	•	💰 Saved 15% in cloud costs via Docker & Kubernetes
-	•	🛡️ Enhanced security with IAM, VPN, monitoring stack
-	•	📊 Set up observability with Prometheus + Grafana
-
-Technologies Used:
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/> 
-<img src="https://helm.sh/img/helm.svg" width="40"/> 
-<img src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
-
+**Technologies:** AWS (EC2, S3, IAM, VPC, RDS), Kubernetes, Docker, Terraform, Helm, ArgoCD, GitHub Actions
 
 </details>
-
 
 <details>
 <summary><strong>💻 Previous Roles</strong> <em>(2020 - 2022)</em></summary>
 
+**IT Intern @ COMETAL SA** *(Nov 2021 - Jan 2022)*
+- Administered Windows Server systems and managed backup strategies
 
-IT Intern @ COMETAL SA (Nov 2021 - Jan 2022)
-	•	Administered Windows Server systems & managed backup strategies
-
-Network Admin Intern @ SAUNYA Cosmetics (Nov 2020 - Oct 2021)
-	•	Deployed private OpenStack cloud infrastructure
-	•	Configured pfSense captive portal & datacenter with Proxmox cluster
+**Network Administrator Intern @ SAUNYA Cosmetics** *(Nov 2020 - Oct 2021)*
+- Deployed private OpenStack cloud infrastructure
+- Configured pfSense captive portal and datacenter with Proxmox cluster
 
 </details>
 
+---
 
-
-⸻
-
-🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
+### ☁️ Cloud & Infrastructure
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 
-☁️ Cloud & Infra
+### ⚙️ DevOps & Automation
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" width="45"/>  
+### 🔐 Security & Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![VPN](https://img.shields.io/badge/IPSec_VPN-0078D7?style=for-the-badge&logo=openvpn&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-FF6B35?style=for-the-badge&logo=crowdsec&logoColor=white)
 
-
-⚙️ DevOps & Automation
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/> 
-<img src="https://helm.sh/img/helm.svg" width="45"/> 
-<img src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>  
-
-
-🔐 Security & Networking
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="45"/> 
-<img src="https://avatars.githubusercontent.com/u/76028709?s=200&v=4" width="45"/> 
-<img src="https://www.svgrepo.com/show/353968/fortinet.svg" width="45"/> 
-<img src="https://www.svgrepo.com/show/353912/openvpn.svg" width="45"/> 
-<img src="https://avatars.githubusercontent.com/u/71066143?s=200&v=4" width="45"/>  
-
-
-📊 Monitoring & Databases
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>  
-
+### 📊 Monitoring & Databases
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
+---
 
+### 🏆 Professional Certifications and Badges
 
-⸻
+<table>
+<tr>
+<td width="50%">
 
-🏆 Certifications
+**☁️ Cloud Certifications**
+- 🥇 **Google Cloud Associate Cloud Engineer** *(2025-2028)*
+- 🔧 **Build Infrastructure with Terraform** *(Google Cloud)*
+- 🔒 **Secure Google Cloud Network** *(Google Cloud)*
+- 🛡️ **Cloud Security Fundamentals** *(Google Cloud)*
+- ⚙️ **App Dev Environment Setup** *(Google Cloud)*
 
-✅ Google Cloud Associate Cloud Engineer
-✅ Kubernetes LFS158 (Linux Foundation)
-✅ Fortinet Certified Associate (valid until 2027)
-✅ CEH (Cisco Networking Academy)
-✅ ISO/IEC 27001 Security Associate (SkillFront)
-✅ Cyber Threat Management (Cisco)
-✅ CrowdSec Driven Cybersecurity
+</td>
+<td width="50%">
 
-⸻
+**🔐 Security Certifications**
+- 🎯 **Certified Ethical Hacker** *(Cisco Networking Academy)*
+- 📜 **ISO/IEC 27001 Security Associate** *(SkillFront)*
+- 🛡️ **Fortinet Certified Associate** *(Valid until 2027)*
+- 🔍 **Cyber Threat Management** *(Cisco)*
+- 🛑 **Endpoint Security** *(Cisco)*
+- 🥷 **CrowdSec Driven Cybersecurity** *(CrowdSec)*
 
-🚀 Featured Projects
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Project	Description	Tech Stack	Link
-🏠 Multi-Cloud Kubernetes Homelab	Hybrid cluster across AWS, Azure & GCP	 
+**⚙️ DevOps & Automation**
+- ☸️ **Kubernetes LFS158** *(Linux Foundation)*
+- 🔄 **Scrum Fundamentals (CASF)** *(SkillFront)*
 
- 	View →
-⚡ CI/CD Pipeline Automation	Automated pipeline with ArgoCD	 
+</td>
+<td width="50%">
 
- 	View →
-🎯 Portfolio Website	Portfolio showcasing projects	 
+**🌐 Networking**
+- 🔧 **Network Technician Career Path** *(Cisco)*
+- 🛡️ **Network Defense** *(Cisco)*
+- 🔍 **Network Support & Security** *(Cisco)*
 
- 	Live Demo →
+</td>
+</tr>
+</table>
 
+---
 
-⸻
-
-📊 GitHub Analytics
+## 🚀 Featured Projects
 
 <div align="center">
 
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| 🏠 **Multi-Cloud Kubernetes Homelab** | Deployed hybrid cluster across AWS EKS + Azure AKS + GCP GKE | `Terraform` `Helm` `Kubernetes` | [View →](https://github.com/alex-dembele) |
+| ⚡ **CI/CD Pipeline Automation** | Automated deployment pipeline with ArgoCD integration | `GitHub Actions` `ArgoCD` `Docker` | [View →](https://github.com/alex-dembele) |
+| 🎯 **Portfolio Website** | Personal portfolio showcasing projects and skills | `Next.js` `Vercel` `React`  | [Live Demo →](https://alex-dembele-portofolio.vercel.app/) |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-dembele&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-dembele&layout=compact&langs_count=7&theme=tokyonight"/>
 
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alex-dembele&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
+---
 
-
-⸻
-
-🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alex-dembele&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies"/>
 </div>
 
+---
 
-
-⸻
-
-🌍 Languages & Interests
-
-🗣️ Languages: 🇫🇷 French | 🇬🇧 English
-🎯 Interests: 💻 Tech | 🎮 Gaming | 🎬 Cinema | ☁️ Cloud Trends | 🔐 Cybersecurity
-
-⸻
-
-🤝 Let’s Connect!
+## 🌍 Languages & Interests
 
 <div align="center">
 
+**🗣️ Languages:**  
+🇫🇷 **French** | 🇬🇧 **English**
 
-I’m always excited to collaborate on innovative projects and discuss the latest in cloud, DevOps & cybersecurity 🚀
+**🎯 Interests:**  
+💻 Emerging Technologies | 🎮 Gaming | 🎬 Cinema | 🌐 Cloud Trends | 🔐 Cybersecurity Research
 
+</div>
 
-⸻
+---
 
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-dembele&theme=tokyo-night" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects and discuss the latest in cloud technologies and cybersecurity!
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandredembele16@gmail.com)
+[![Schedule Call](https://img.shields.io/badge/Schedule_Call-00C851?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+237695356718)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/)
+
+---
 
 <img src="https://komarev.com/ghpvc/?username=alex-dembele&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-
-✨ “Building secure, automated, and scalable infrastructures—one deployment at a time.” ✨
+**✨ _"Building secure, automated, and scalable infrastructures—one deployment at a time."_ ✨**
 
 </div>
-```
