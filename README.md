@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 ```yaml
 name: Alexandre DEMBELE
@@ -50,7 +50,7 @@ seeking: International opportunities
 - ⚡ **Reduced deployment times by 40%** through GitHub Actions CI/CD automation
 - 💰 **Cut cloud costs by 15%** via Docker & Kubernetes containerization
 - 🛡️ **Enhanced security posture** with IAM policies, IPSec VPN, and comprehensive monitoring
-- 📊 **Implemented observability** with Prometheus monitoring stack
+- 📊 **Implemented observability** with Prometheus monitoring stack. 
 
 **Technologies:** AWS (EC2, S3, IAM, VPC, RDS), Kubernetes, Docker, Terraform, Helm, ArgoCD, GitHub Actions
 
