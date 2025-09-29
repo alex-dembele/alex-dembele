@@ -198,7 +198,7 @@ seeking: International opportunities
 🇫🇷 **French** | 🇬🇧 **English**
 
 **🎯 Interests:**  
-💻 Emerging Technologies | 🎮 Gaming | 🎬 Cinema | 🌐 Cloud Trends | 🔐 Cybersecurity Research
+💻 Emerging Technologies | 🎮 Gaming | 🎬 Cinema | 🌐 Cloud Trends | 🔐 Cybersecurity Research.
 
 </div>
 
