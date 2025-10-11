@@ -22,7 +22,6 @@
 ```yaml
 name: Alexandre DEMBELE
 role: Systems & Network Engineer
-experience: 4+ years
 specialization: [Cloud Architecture, DevOps, Cybersecurity]
 current_position: System Administrator @ NEXAH SARL
 location: Douala, Cameroon
