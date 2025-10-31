@@ -158,6 +158,7 @@ seeking: International opportunities
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | 🏠 **Multi-Cloud Kubernetes Homelab** | Deployed hybrid cluster across AWS EKS + Azure AKS + GCP GKE | `Terraform` `Helm` `Kubernetes` | [View →](https://github.com/alex-dembele) |
+| 🔒 **OpenRisk** |  Unified Risk & Threat Intelligence Management Platform | `Python` `Docker` `Kubernetes` `Javascript` | [Live Demo →](https://alex-dembele.github.io/OpenRisk/) |
 | ⚡ **CI/CD Pipeline Automation** | Automated deployment pipeline with ArgoCD integration | `GitHub Actions` `ArgoCD` `Docker` | [View →](https://github.com/alex-dembele) |
 | 🎯 **Portfolio Website** | Personal portfolio showcasing projects and skills | `Next.js` `Vercel` `React`  | [Live Demo →](https://alex-dembele-portofolio.vercel.app/) |
 
