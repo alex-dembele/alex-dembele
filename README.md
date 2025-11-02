@@ -92,8 +92,7 @@ seeking: International opportunities
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![VPN](https://img.shields.io/badge/IPSec_VPN-0078D7?style=for-the-badge&logo=openvpn&logoColor=white)
-![CrowdSec](https://img.shields.io/badge/CrowdSec-FF6B35?style=for-the-badge&logo=crowdsec&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-FF6B35?style=for-the-badge&logo=wazuh&logoColor=white)
 
 ### 📊 Monitoring & Databases
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
