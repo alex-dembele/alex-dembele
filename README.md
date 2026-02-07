@@ -11,7 +11,7 @@
 [![GitHub Pro](https://img.shields.io/badge/GitHub_Pro-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexNXH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-dembele-b80a01225)
 
-📧 **alexandredembele16@gmail.com** | 📱 **+237 695 356 718**
+📧 **alexandredembele16@gmail.com**
 
 </div>
 
