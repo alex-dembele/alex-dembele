@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Alex DEMBELE.
+# Hello, I'm Alex DEMBELE.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Platform+%26+Automation+Engineer" alt="Typing SVG" />
 
-**🌍 Based in Douala, Cameroon | 🎯 Open to any opportunity because I am a passionate**
+**🌍 Based in Douala, Cameroon | 🎯 DevOps Engineer focused on cloud automation, scalable platforms, and secure delivery**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-dembele)
@@ -21,35 +21,52 @@
 
 ```yaml
 name: Alexandre DEMBELE
-role: Systems & Network Engineer
-specialization: [Cloud Architecture, DevOps, Cybersecurity]
-current_position: System Administrator @ NEXAH SARL
+role: DevOps Engineer
+specialization: [Cloud Infrastructure, CI/CD, Kubernetes, Automation, Cybersecurity]
+current_position: DevOps Engineer @ Liongate Sarl
 location: Douala, Cameroon
 seeking: International opportunities
 ```
 
-**Passionate Systems & Network Administrator** with **hands-on experience** in designing, optimizing, and securing cloud infrastructures. I thrive on transforming complex technical challenges into elegant, scalable solutions.
+**DevOps Engineer and Cloud Infrastructure Specialist** with a strong background in automating deployments, improving system reliability, and building secure cloud-native environments. I help businesses move from manual operations to scalable, resilient, and production-ready platforms.
 
 🎯 **What I do:**
-- Architect and migrate cloud infrastructures (AWS → Kubernetes)
-- Design automated CI/CD pipelines that reduce deployment time by **40%**
-- Optimize cloud costs through containerization (**-15% cost reduction**)
-- Implement robust security frameworks and monitoring solutions
-- Build resilient, high-availability systems
+- Build and optimize CI/CD pipelines for faster, safer software delivery
+- Automate cloud infrastructure provisioning with Terraform, Helm, and GitOps workflows
+- Deploy and manage scalable applications on Kubernetes and Docker
+- Improve system observability, reliability, and performance in production environments
+- Strengthen infrastructure security through IAM, environment hardening, and best practices
+- Support engineering teams with developer-friendly workflows, automation, and deployment efficiency
 
 ---
 
 ## 💼 Professional Experience
 
 <details>
-<summary><strong>🏢 System Administrator @ NEXAH SARL</strong> <em>(April 2023 - Present)</em></summary>
+<summary><strong>🏢 DevOps Engineer @ Liongate Sarl</strong> <em>(August 2026 - Present)</em></summary>
+
+**Core Responsibilities:**
+- 🔄 Design, implement, and maintain CI/CD pipelines to accelerate software delivery and reduce deployment risks
+- ☸️ Deploy and manage containerized applications in Kubernetes and Docker-based environments
+- ⚙️ Automate infrastructure provisioning, configuration, and environment consistency with Terraform and IaC best practices
+- 📊 Monitor application health, system performance, and infrastructure metrics with observability tools
+- 🔐 Improve security posture by enforcing IAM policies, deployment hardening, and infrastructure best practices
+- 💡 Collaborate with teams to streamline release workflows, reduce manual operations, and improve platform reliability
+- 🚀 Support cloud optimization and high-availability architecture for business-critical services
+
+**Technologies:** AWS, Kubernetes, Docker, Terraform, Helm, GitHub Actions, CI/CD, Monitoring, Infrastructure as Code, Automation, Cloud Operations
+
+</details>
+
+<details>
+<summary><strong>🏢 System Administrator @ NEXAH SARL</strong> <em>(April 2023 - July 2026)</em></summary>
 
 **Key Achievements:**
 - 🔄 **Successfully migrated** AWS architecture to Kubernetes using EKS, Terraform, Helm, and ArgoCD
 - ⚡ **Reduced deployment times by 40%** through GitHub Actions CI/CD automation
 - 💰 **Cut cloud costs by 15%** via Docker & Kubernetes containerization
 - 🛡️ **Enhanced security posture** with IAM policies, IPSec VPN, and comprehensive monitoring
-- 📊 **Implemented observability** with Prometheus monitoring stack. 
+- 📊 **Implemented observability** with Prometheus monitoring stack.
 
 **Technologies:** AWS (EC2, S3, IAM, VPC, RDS), Kubernetes, Docker, Terraform, Helm, ArgoCD, GitHub Actions
 
@@ -214,7 +231,7 @@ seeking: International opportunities
 
 <div align="center">
 
-I'm always excited to collaborate on innovative projects and discuss the latest in cloud technologies and cybersecurity!!!
+I’m always open to collaborations, cloud engineering challenges, and opportunities to build secure, scalable, and high-impact digital systems.
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandredembele16@gmail.com)
 [![Schedule Call](https://img.shields.io/badge/Schedule_Call-00C851?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+237695356718)
