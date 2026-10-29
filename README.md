@@ -7,9 +7,8 @@
 **🌍 Based in Douala, Cameroon | 🎯 DevOps Engineer focused on cloud automation, scalable platforms, and secure delivery**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-dembele)
-[![GitHub Pro](https://img.shields.io/badge/GitHub_Pro-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexNXH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-dembele-b80a01225)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/alex-dembele/badge.svg)](https://hub.xerj.org/contributors/alex-dembele)
 
 📧 **alexandredembele16@gmail.com**
 
